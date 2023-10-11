@@ -1,3 +1,3 @@
 Hello World
-Hi I am goinf to conflict
 user-y inserted another line
+user-y deleted 2nd line and inserted another line
